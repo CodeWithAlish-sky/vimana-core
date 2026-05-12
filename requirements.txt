@@ -3,4 +3,4 @@ supabase
 ccxt
 pandas
 numpy
-tensorflow
+
