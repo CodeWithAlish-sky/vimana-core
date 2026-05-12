@@ -4,4 +4,3 @@ ccxt
 pandas
 numpy
 tensorflow
-google-trans-new
